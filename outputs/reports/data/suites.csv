@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 29 15:31:20 CST 2023","Sun Jan 29 15:31:25 CST 2023","4324","testcases.web.demo","test_atest_login","TestLogin","","","登录用例流程","正常购买商品流程"

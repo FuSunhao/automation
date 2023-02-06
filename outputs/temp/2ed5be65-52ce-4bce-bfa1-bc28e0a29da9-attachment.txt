@@ -1,0 +1,15 @@
+INFO     log:logger.py:68 -----------WEB自动化测试开始-----------
+INFO     log:logger.py:68 用例执行时间：2023/01/29 15:31:19
+INFO     log:logger.py:68 打开Chrome浏览器
+INFO     log:logger.py:68 执行:登录用例流程用例开始
+INFO     log:base_operation.py:63 加载项目地址：http://127.0.0.1/cognition/
+INFO     log:base_operation.py:37 定位元素('xpath', "//*[@id='loginForm']/div[2]/div/input[2]")，定位元素成功！
+INFO     log:base_operation.py:89 操作元素(xpath,//*[@id='loginForm']/div[2]/div/input[2])输入400100成功
+INFO     log:base_operation.py:37 定位元素('xpath', "//*[@id='loginForm']/div[3]/div/input[2]")，定位元素成功！
+INFO     log:base_operation.py:89 操作元素(xpath,//*[@id='loginForm']/div[3]/div/input[2])输入123456成功
+INFO     log:base_operation.py:37 定位元素('xpath', "//*[@id='submitBtn']")，定位元素成功！
+INFO     log:base_operation.py:99 操作元素(xpath,//*[@id='submitBtn'])点击成功
+INFO     log:base_operation.py:37 定位元素('xpath', "//*[@id='searchForm']/div[4]/button[1]")，定位元素成功！
+INFO     log:base_operation.py:208 断言assertTextIn：医生  in 医生控制台，断言成功！
+INFO     log:logger.py:68 执行登录用例流程用例结束
+INFO     log:logger.py:68 ----------测试用例执行结束----------
