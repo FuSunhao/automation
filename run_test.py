@@ -9,5 +9,6 @@ if __name__ == '__main__':
     pytest.main()
     # 生成allure报告
     os.system("allure generate ./outputs/temp -o ./outputs/reports --clean")
+    print("hot-fix commit")
 
 # //第二个版本
